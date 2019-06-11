@@ -27,7 +27,7 @@ Figure 1: Home Screen of Demo App
 The application will require you to login using the credentials specified in your [Okta Dashboard](https://developer.okta.com/product/user-management/).
 By default, you have at least one user associated with the email you used to create Okta App:
 
-![figure2](https://github.com/dmitryvinn/okta-springboot-html5/blob/master/docs/assets/figure1.png "figure1")
+![figure2](https://github.com/dmitryvinn/okta-springboot-html5/blob/master/docs/assets/figure2.png "figure1")
 Figure 2: Okta Authentication Widget
 
 After you're authenticated, go ahead and create new todo items, delete existing ones or complete items you are done with.
